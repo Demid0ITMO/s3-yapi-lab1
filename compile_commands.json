@@ -1,0 +1,52 @@
+[
+{
+  "directory": "/home/demid/Desktop/img_lab/assignment-image-rotation/solution",
+  "command": "/usr/bin/cc  -I/home/demid/Desktop/img_lab/assignment-image-rotation/solution/src -I/home/demid/Desktop/img_lab/assignment-image-rotation/solution/include -std=c17 -pedantic -Wall -Werror -ggdb -o CMakeFiles/image-transformer.dir/src/bmp.c.o -c /home/demid/Desktop/img_lab/assignment-image-rotation/solution/src/bmp.c",
+  "file": "/home/demid/Desktop/img_lab/assignment-image-rotation/solution/src/bmp.c"
+},
+{
+  "directory": "/home/demid/Desktop/img_lab/assignment-image-rotation/solution",
+  "command": "/usr/bin/cc  -I/home/demid/Desktop/img_lab/assignment-image-rotation/solution/src -I/home/demid/Desktop/img_lab/assignment-image-rotation/solution/include -std=c17 -pedantic -Wall -Werror -ggdb -o CMakeFiles/image-transformer.dir/src/main.c.o -c /home/demid/Desktop/img_lab/assignment-image-rotation/solution/src/main.c",
+  "file": "/home/demid/Desktop/img_lab/assignment-image-rotation/solution/src/main.c"
+},
+{
+  "directory": "/home/demid/Desktop/img_lab/assignment-image-rotation/solution",
+  "command": "/usr/bin/cc  -I/home/demid/Desktop/img_lab/assignment-image-rotation/solution/src -I/home/demid/Desktop/img_lab/assignment-image-rotation/solution/include -std=c17 -pedantic -Wall -Werror -ggdb -o CMakeFiles/image-transformer.dir/src/reading.c.o -c /home/demid/Desktop/img_lab/assignment-image-rotation/solution/src/reading.c",
+  "file": "/home/demid/Desktop/img_lab/assignment-image-rotation/solution/src/reading.c"
+},
+{
+  "directory": "/home/demid/Desktop/img_lab/assignment-image-rotation/solution",
+  "command": "/usr/bin/cc  -I/home/demid/Desktop/img_lab/assignment-image-rotation/solution/src -I/home/demid/Desktop/img_lab/assignment-image-rotation/solution/include -std=c17 -pedantic -Wall -Werror -ggdb -o CMakeFiles/image-transformer.dir/src/rotate.c.o -c /home/demid/Desktop/img_lab/assignment-image-rotation/solution/src/rotate.c",
+  "file": "/home/demid/Desktop/img_lab/assignment-image-rotation/solution/src/rotate.c"
+},
+{
+  "directory": "/home/demid/Desktop/img_lab/assignment-image-rotation/solution",
+  "command": "/usr/bin/cc  -I/home/demid/Desktop/img_lab/assignment-image-rotation/solution/src -I/home/demid/Desktop/img_lab/assignment-image-rotation/solution/include -std=c17 -pedantic -Wall -Werror -ggdb -o CMakeFiles/image-transformer.dir/src/util.c.o -c /home/demid/Desktop/img_lab/assignment-image-rotation/solution/src/util.c",
+  "file": "/home/demid/Desktop/img_lab/assignment-image-rotation/solution/src/util.c"
+},
+{
+  "directory": "/home/demid/Desktop/img_lab/assignment-image-rotation/solution",
+  "command": "/usr/bin/cc  -I/home/demid/Desktop/img_lab/assignment-image-rotation/solution/src -I/home/demid/Desktop/img_lab/assignment-image-rotation/solution/include -std=c17 -pedantic -Wall -Werror -ggdb -o CMakeFiles/image-transformer.dir/src/writing.c.o -c /home/demid/Desktop/img_lab/assignment-image-rotation/solution/src/writing.c",
+  "file": "/home/demid/Desktop/img_lab/assignment-image-rotation/solution/src/writing.c"
+},
+{
+  "directory": "/home/demid/Desktop/img_lab/assignment-image-rotation/tester",
+  "command": "/usr/bin/cc  -I/home/demid/Desktop/img_lab/assignment-image-rotation/tester/src -I/home/demid/Desktop/img_lab/assignment-image-rotation/tester/include -std=c17 -pedantic -Wall -Werror -ggdb -o CMakeFiles/image-matcher.dir/src/bmp.c.o -c /home/demid/Desktop/img_lab/assignment-image-rotation/tester/src/bmp.c",
+  "file": "/home/demid/Desktop/img_lab/assignment-image-rotation/tester/src/bmp.c"
+},
+{
+  "directory": "/home/demid/Desktop/img_lab/assignment-image-rotation/tester",
+  "command": "/usr/bin/cc  -I/home/demid/Desktop/img_lab/assignment-image-rotation/tester/src -I/home/demid/Desktop/img_lab/assignment-image-rotation/tester/include -std=c17 -pedantic -Wall -Werror -ggdb -o CMakeFiles/image-matcher.dir/src/file_cmp.c.o -c /home/demid/Desktop/img_lab/assignment-image-rotation/tester/src/file_cmp.c",
+  "file": "/home/demid/Desktop/img_lab/assignment-image-rotation/tester/src/file_cmp.c"
+},
+{
+  "directory": "/home/demid/Desktop/img_lab/assignment-image-rotation/tester",
+  "command": "/usr/bin/cc  -I/home/demid/Desktop/img_lab/assignment-image-rotation/tester/src -I/home/demid/Desktop/img_lab/assignment-image-rotation/tester/include -std=c17 -pedantic -Wall -Werror -ggdb -o CMakeFiles/image-matcher.dir/src/main.c.o -c /home/demid/Desktop/img_lab/assignment-image-rotation/tester/src/main.c",
+  "file": "/home/demid/Desktop/img_lab/assignment-image-rotation/tester/src/main.c"
+},
+{
+  "directory": "/home/demid/Desktop/img_lab/assignment-image-rotation/tester",
+  "command": "/usr/bin/cc  -I/home/demid/Desktop/img_lab/assignment-image-rotation/tester/src -I/home/demid/Desktop/img_lab/assignment-image-rotation/tester/include -std=c17 -pedantic -Wall -Werror -ggdb -o CMakeFiles/image-matcher.dir/src/util.c.o -c /home/demid/Desktop/img_lab/assignment-image-rotation/tester/src/util.c",
+  "file": "/home/demid/Desktop/img_lab/assignment-image-rotation/tester/src/util.c"
+}
+]

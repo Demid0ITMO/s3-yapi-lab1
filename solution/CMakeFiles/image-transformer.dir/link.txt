@@ -1,0 +1,1 @@
+/usr/bin/cc -std=c17 -pedantic -Wall -Werror -ggdb CMakeFiles/image-transformer.dir/src/bmp.c.o CMakeFiles/image-transformer.dir/src/main.c.o CMakeFiles/image-transformer.dir/src/reading.c.o CMakeFiles/image-transformer.dir/src/rotate.c.o CMakeFiles/image-transformer.dir/src/util.c.o CMakeFiles/image-transformer.dir/src/writing.c.o -o image-transformer 

@@ -1,0 +1,1 @@
+/usr/bin/cc -std=c17 -pedantic -Wall -Werror -ggdb CMakeFiles/image-matcher.dir/src/bmp.c.o CMakeFiles/image-matcher.dir/src/file_cmp.c.o CMakeFiles/image-matcher.dir/src/main.c.o CMakeFiles/image-matcher.dir/src/util.c.o -o image-matcher 

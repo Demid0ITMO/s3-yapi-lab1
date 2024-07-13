@@ -1,0 +1,12 @@
+/home/demid/Desktop/img_lab/assignment-image-rotation/CMakeFiles/test.dir
+/home/demid/Desktop/img_lab/assignment-image-rotation/CMakeFiles/edit_cache.dir
+/home/demid/Desktop/img_lab/assignment-image-rotation/CMakeFiles/rebuild_cache.dir
+/home/demid/Desktop/img_lab/assignment-image-rotation/solution/CMakeFiles/image-transformer.dir
+/home/demid/Desktop/img_lab/assignment-image-rotation/solution/CMakeFiles/test.dir
+/home/demid/Desktop/img_lab/assignment-image-rotation/solution/CMakeFiles/edit_cache.dir
+/home/demid/Desktop/img_lab/assignment-image-rotation/solution/CMakeFiles/rebuild_cache.dir
+/home/demid/Desktop/img_lab/assignment-image-rotation/tester/CMakeFiles/image-matcher.dir
+/home/demid/Desktop/img_lab/assignment-image-rotation/tester/CMakeFiles/check.dir
+/home/demid/Desktop/img_lab/assignment-image-rotation/tester/CMakeFiles/test.dir
+/home/demid/Desktop/img_lab/assignment-image-rotation/tester/CMakeFiles/edit_cache.dir
+/home/demid/Desktop/img_lab/assignment-image-rotation/tester/CMakeFiles/rebuild_cache.dir
